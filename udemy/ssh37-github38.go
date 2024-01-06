@@ -1,0 +1,9 @@
+package main
+
+func main() {
+
+}
+
+// *COME BACK LATER AND SETUP*
+// 37 - GITHUB AND SSH AUTHENTICATION
+// 38 - SETTING UP A GITHUB REPO
