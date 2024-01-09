@@ -2,3 +2,7 @@ github.com/dev-cib/dog v0.0.0-20240104234343-fff264a60527 h1:yMKTAwOKCsH6jUucfL+
 github.com/dev-cib/dog v0.0.0-20240104234343-fff264a60527/go.mod h1:DTmlk6M53Zl3aBjPhhEl011y8aEK96tbITc6bJqqq0s=
 github.com/dev-cib/puppy v0.0.0-20240105002900-8713f264c69c h1:f9DzBnhYKFwez5jZSbvO8U+CIS3EEjbvaIcMNIew5B4=
 github.com/dev-cib/puppy v0.0.0-20240105002900-8713f264c69c/go.mod h1:o5IPaEB+0ql2bnZSngF07F9YYjG3dVVgtWYUY4tXono=
+github.com/dev-cib/puppy v1.2.0 h1:PAQZ1lVzgu3yEdnF4LzmgCKcCIYQsBygI2tbqN5Ex7E=
+github.com/dev-cib/puppy v1.2.0/go.mod h1:o5IPaEB+0ql2bnZSngF07F9YYjG3dVVgtWYUY4tXono=
+github.com/dev-cib/puppy v1.3.0 h1:Kr5rHv3y6tyrUukSM+2N8fsOEnduyG3n2MrA9MuWU7U=
+github.com/dev-cib/puppy v1.3.0/go.mod h1:o5IPaEB+0ql2bnZSngF07F9YYjG3dVVgtWYUY4tXono=
